@@ -1,19 +1,18 @@
-# Laporan-Modul-1-dan-2-Prak-Basis-Data
-
-### Modul 1
-
 ### Nama : Veri Iswanto
-### Kelas : RPL
-### Absen : 34
+### Kelas : RPL 
+### No. Absen : 02
 
-#### Jawaban Soal Nomor 1
-**Coba Bold**
 
-> Coba Quoting
-
+## Modul 1
+Menulis title di **CMD** 
 ```
-create table siswa (id int(10)not null primary key, nama varchar(255) not nul, jenis_kelamin enum('L','P'));
+title Veri Iswanto
 ```
-![image](https://user-images.githubusercontent.com/113566079/190291479-15b08906-3c00-4cf3-bc2a-412501f548af.png)
 
-![62db876029cb0876724c51e7_database 1](https://user-images.githubusercontent.com/113566079/190291594-0a57d5e2-db2d-453e-b587-81f244318cd6.png)
+**Output**
+![image](https://user-images.githubusercontent.com/113566079/190293191-dea479bf-5de6-459f-8163-078ed7b121f5.png)
+
+Masuk ke direktori **MySQL**
+
+**Output**
+![image](https://user-images.githubusercontent.com/113566079/190293371-c29e5137-feb8-4b61-a6f5-08460b84a757.png)
