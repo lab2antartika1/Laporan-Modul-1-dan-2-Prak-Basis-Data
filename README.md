@@ -14,5 +14,9 @@ title Veri Iswanto
 
 Masuk ke direktori **MySQL**
 
+```
+cd xampp/mysql/bin
+```
+
 **Output**
 ![image](https://user-images.githubusercontent.com/113566079/190293371-c29e5137-feb8-4b61-a6f5-08460b84a757.png)
